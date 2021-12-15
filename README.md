@@ -16,3 +16,19 @@ Here are some ideas to get you started:
 -->
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=taisei12232&show_icons=true&count_private=true&theme=dark)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=taisei12232&langs_count=3&theme=dark&hide=jupyter%20notebook,html)
+
+## Technology Stack
+
+### *🧢 Web Frontend**  
+Basic: HTML, CSS, JavaScript
+Frameworks: Vue, React 
+
+### **🧢 Backend**
+JavaScript: Node.js  
+Python3: Flask, Fast-API    
+
+### ***🧢 Other**
+C, C++, Google Apps Script  
+
+### ****🧢 Database**  
+Firestore, Azure Cosmos DB

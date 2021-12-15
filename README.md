@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=taisei12232&show_icons=true&count_private=true&theme=dark)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=taisei12232&langs_count=3&theme=dark&hide=jupyter%20notebook,html)
 
+## About Me
+
+Hello everyone!🧢
+
+I am second year National Institute of Technology Student.
+
+I have experience in front-end and back-end learning.
+
+I am most skilled and comfortable using Python3.
+
 ## Technology Stack
 
 ### **🧢 Web Frontend**  

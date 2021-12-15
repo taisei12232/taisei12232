@@ -27,8 +27,8 @@ Frameworks: Vue, React
 JavaScript: Node.js  
 Python3: Flask, Fast-API    
 
-### ***🧢 Other**
+### 🧢 Other**
 C, C++, Google Apps Script  
 
-### ****🧢 Database**  
+### 🧢 Database**  
 Firestore, Azure Cosmos DB

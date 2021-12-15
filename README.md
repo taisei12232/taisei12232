@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Technology Stack
 
-### *🧢 Web Frontend**  
+### **🧢 Web Frontend**  
 Basic: HTML, CSS, JavaScript
 Frameworks: Vue, React 
 
@@ -27,8 +27,8 @@ Frameworks: Vue, React
 JavaScript: Node.js  
 Python3: Flask, Fast-API    
 
-### 🧢 Other**
+### **🧢 Other**
 C, C++, Google Apps Script  
 
-### 🧢 Database**  
+### **🧢 Database**  
 Firestore, Azure Cosmos DB
